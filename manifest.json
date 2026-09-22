@@ -1,0 +1,30 @@
+{
+  "_note": "Slug -> image. The publisher reads `url` from here rather than building it by hand. Files are never overwritten; a changed creative gets a new slug.",
+  "base_url": "https://raw.githubusercontent.com/pjbdn/ac-social-assets/main/",
+  "posts": {
+    "2026-09-23-anchor": {
+      "path": "posts/2026-09/2026-09-23-anchor.jpg",
+      "url": "https://raw.githubusercontent.com/pjbdn/ac-social-assets/main/posts/2026-09/2026-09-23-anchor.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    "2026-09-25-locker-room-1": {
+      "path": "posts/2026-09/2026-09-25-locker-room-1.jpg",
+      "url": "https://raw.githubusercontent.com/pjbdn/ac-social-assets/main/posts/2026-09/2026-09-25-locker-room-1.jpg",
+      "width": 1080,
+      "height": 1350
+    },
+    "2026-09-26-straight-up-1": {
+      "path": "posts/2026-09/2026-09-26-straight-up-1.jpg",
+      "url": "https://raw.githubusercontent.com/pjbdn/ac-social-assets/main/posts/2026-09/2026-09-26-straight-up-1.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    "2026-09-28-same-claim-1": {
+      "path": "posts/2026-09/2026-09-28-same-claim-1.jpg",
+      "url": "https://raw.githubusercontent.com/pjbdn/ac-social-assets/main/posts/2026-09/2026-09-28-same-claim-1.jpg",
+      "width": 1080,
+      "height": 1350
+    }
+  }
+}
